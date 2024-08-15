@@ -7,6 +7,7 @@
 
 - <b>Docker</b>
   - [Installing Docker and Docker-Compose](https://github.com/bztoothman/Installing-Docker-and-Docker-Compose)
+  - [Installing-Peppermint-Ticketing-System](https://github.com/bztoothman/Installing-Peppermint-Ticketing-System/tree/main)
 
 <h2>🤳Connect with me:</h2>
 
